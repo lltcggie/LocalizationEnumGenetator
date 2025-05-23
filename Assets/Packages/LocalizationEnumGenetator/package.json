@@ -1,0 +1,14 @@
+{
+  "name": "com.lltcggie.localization-enum-genetator",
+  "displayName": "Localization Enum Genetator",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "Generate Table Key Enum Source Code from Unity Localization String Table Assets",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.localization": "1.5.3"
+  },
+  "author": {
+    "name": "lltcggie"
+  }
+}
