@@ -1,0 +1,2 @@
+# LocalizationEnumGenetator
+Unity LocalizationのString TableアセットからテーブルキーのEnumのソースコードを生成する
